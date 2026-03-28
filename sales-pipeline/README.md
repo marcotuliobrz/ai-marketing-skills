@@ -350,4 +350,6 @@ The result: a self-improving pipeline that gets better the more you use it.
 
 *This is how we build agents at [Single Brain](https://singlebrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills) for our clients.*
 
+📬 **[Level up your marketing with 14,000+ marketers and founders →](https://levelingup.beehiiv.com/subscribe)** *(free)*
+
 </div>
