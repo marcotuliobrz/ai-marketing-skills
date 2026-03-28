@@ -323,6 +323,18 @@ MIT
 ---
 
 <p align="center">
-  <b>Built by <a href="https://www.singlegrain.com">Single Grain</a></b><br>
+  <b>Built by <a href="https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills">Single Grain</a></b><br>
   We help companies grow with AI-powered marketing. This is how we do it internally.
 </p>
+
+---
+
+<div align="center">
+
+### Built by [Single Grain](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills)
+
+**We help companies grow with AI-powered marketing. These are the tools we use internally.**
+
+[Learn more →](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills)
+
+</div>

@@ -166,3 +166,16 @@ The pipeline is modular. Use any script standalone or wire them together.
 ## License
 
 MIT
+
+
+---
+
+<div align="center">
+
+### Built by [Single Grain](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills)
+
+**We help companies grow with AI-powered marketing. These are the tools we use internally.**
+
+[Learn more →](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills)
+
+</div>

@@ -4,7 +4,7 @@
 
 A complete AI-powered sales pipeline automation suite: from website visitor identification through intent scoring, suppression, campaign routing, dead deal resurrection, trigger-based prospecting, and self-learning ICP optimization.
 
-These tools were built in production at [Single Grain](https://www.singlegrain.com), processing thousands of visitors and deals weekly. Now open-sourced for any B2B company to use.
+These tools were built in production at [Single Grain](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills), processing thousands of visitors and deals weekly. Now open-sourced for any B2B company to use.
 
 ---
 
@@ -345,5 +345,17 @@ The result: a self-improving pipeline that gets better the more you use it.
 ---
 
 <p align="center">
-  Built by <a href="https://www.singlegrain.com">Single Grain</a> · Open-sourced as part of <a href="https://github.com/nichochar/ai-marketing-skills">AI Marketing Skills</a>
+  Built by <a href="https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills">Single Grain</a> · Open-sourced as part of <a href="https://github.com/nichochar/ai-marketing-skills">AI Marketing Skills</a>
 </p>
+
+---
+
+<div align="center">
+
+### Built by [Single Grain](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills)
+
+**We help companies grow with AI-powered marketing. These are the tools we use internally.**
+
+[Learn more →](https://www.singlegrain.com/?utm_source=github&utm_medium=skill_repo&utm_campaign=ai_marketing_skills)
+
+</div>
